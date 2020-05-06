@@ -18,6 +18,8 @@ It  is an Sonoff using Rapberry Pi
 
 ## Run
 *Run Main.py File on RPI*
+*A Flask Server Will Run on http://0.0.0.0:8000/*
+
 ```
 python main.py
 ```
